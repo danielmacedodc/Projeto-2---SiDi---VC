@@ -1,4 +1,0 @@
-name: ml-env
-channels:
-  - defaults
-prefix: C:\Users\tasso\anaconda3\envs\ml-env
